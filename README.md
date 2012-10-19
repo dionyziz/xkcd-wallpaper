@@ -1,8 +1,8 @@
-xkcd-wall is a python script for Windows 7 that changes your wallpaper to a random xkcd comic daily.
+**xkcd-wall** is a python script for Windows 7 that changes your wallpaper to a random [http://xkcd.com/](xkcd) comic daily.
 
 Credits
 =======
-The xkcd API uses [the xkcd library](https://github.com/gtklocker/xkcd) by Kostis "gtklocker" Karantias licensed under the MIT license.
+The xkcd API uses [the xkcd library](https://github.com/gtklocker/xkcd) by **Kostis "gtklocker" Karantias** licensed under the MIT license.
 
 Wallpaper code is by [ AKM](http://gabbpuy.blogspot.gr/2007/02/set-windows-wallpaper-from-python.html).
 
